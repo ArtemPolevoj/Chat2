@@ -1,0 +1,14 @@
+
+Fri Dec 15 11:35:25 MSK 2023
+Игорь connect
+Fri Dec 15 11:35:38 MSK 2023
+Игорь: Всем привет
+Fri Dec 15 11:35:51 MSK 2023
+Вася connect
+Fri Dec 15 11:36:11 MSK 2023
+Вася: Привет
+Fri Dec 15 11:36:15 MSK 2023
+Вася disconnect
+Fri Dec 15 11:36:19 MSK 2023
+Игорь disconnect
+
